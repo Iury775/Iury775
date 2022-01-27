@@ -1,5 +1,5 @@
-a- 👀 I’m interested in aprednder e evoluir no mundao da tecnologia, principalmente na programação
-- 🌱 I’m currently learning  JavaScript
+a- 👀 I’m interested in learn and evolve in the world of technology, especially in programming
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
